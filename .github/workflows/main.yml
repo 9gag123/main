@@ -6,7 +6,6 @@
   <title>Dual Spinner Activity</title>
   <style>
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       text-align: center;
       background-color: #f8f9fa;
       margin: 0;
